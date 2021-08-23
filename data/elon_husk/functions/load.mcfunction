@@ -1,0 +1,1 @@
+scoreboard objectives add tick_count dummy
